@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=letra\ fecha\ cantM\ cantH
+comment0.target=CriaNacida\ obtenerCriaNacida(char,\ Fecha,\ int,\ int)
+numComments=1

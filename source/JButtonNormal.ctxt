@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=titulo
+comment0.target=JButtonNormal(String)
+comment1.params=titulo\ ancho
+comment1.target=JButtonNormal(String,\ int)
+numComments=2

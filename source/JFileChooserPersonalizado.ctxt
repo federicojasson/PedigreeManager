@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=JFileChooserPersonalizado()
+comment1.target=JPanel\ armarPanelPreview()
+comment2.params=archivo
+comment2.target=void\ imprimirPreview(File)
+numComments=3

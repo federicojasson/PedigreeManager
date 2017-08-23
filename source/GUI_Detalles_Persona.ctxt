@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=p\ c
+comment0.target=GUI_Detalles_Persona(GUI_Frame,\ Persona)
+comment1.target=void\ cerrar()
+comment10.target=JPanel\ armarPanelNotas()
+comment11.target=JPanel\ armarPanelFoto()
+comment12.params=imagen
+comment12.target=JPanel\ armarPanelFotoMiniatura(BufferedImage)
+comment13.target=JPanel\ armarPanelBotones()
+comment2.target=void\ alCerrarImagen()
+comment3.target=void\ ampliar()
+comment4.target=void\ crearGUI()
+comment5.target=void\ armarPaneles()
+comment6.target=JPanel\ armarPanelDatos()
+comment7.target=JPanel\ armarPanelNombre()
+comment8.target=JPanel\ armarPanelDomicilio()
+comment9.target=JPanel\ armarPanelTelefono()
+numComments=14

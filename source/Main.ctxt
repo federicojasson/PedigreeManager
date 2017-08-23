@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main()
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=puerto
+comment2.target=void\ establecerNuevoPuerto(int)
+comment3.target=void\ abrirVentanaPrincipal()
+comment4.target=void\ abrirVentanaInicial()
+numComments=5

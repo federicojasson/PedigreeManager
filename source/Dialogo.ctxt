@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=parent\ texto
+comment0.target=void\ mostrarMensajeAviso(GUI_Frame,\ String)
+comment1.params=parent\ texto
+comment1.target=void\ mostrarMensajeAviso(GUI_Dialog,\ String)
+comment2.params=parent\ texto
+comment2.target=int\ mostrarMensajeConfirmacion(GUI_Frame,\ String)
+comment3.params=parent\ texto
+comment3.target=int\ mostrarMensajeConfirmacion(GUI_Dialog,\ String)
+comment4.params=parent\ texto
+comment4.target=void\ mostrarMensajeError(GUI_Frame,\ String)
+comment5.params=parent\ texto
+comment5.target=void\ mostrarMensajeError(GUI_Dialog,\ String)
+comment6.params=parent\ texto\ title
+comment6.target=void\ mostrarMensajeError(GUI_Frame,\ String,\ String)
+comment7.params=parent\ texto\ title
+comment7.target=void\ mostrarMensajeError(GUI_Dialog,\ String,\ String)
+comment8.params=texto
+comment8.target=void\ mostrarMensajeError(String)
+numComments=9

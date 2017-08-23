@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=p\ base
+comment0.target=GUI_Backup(GUI_Frame,\ Datos)
+comment1.params=p\ base
+comment1.target=GUI_Backup(GUI_Frame,\ String)
+comment10.target=JPanel\ armarPanelBotones()
+comment2.params=p\ base
+comment2.target=GUI_Backup(GUI_Dialog,\ Datos)
+comment3.target=void\ aceptar()
+comment4.params=nombre
+comment4.target=void\ crearBackup(String)
+comment5.target=void\ crearGUI()
+comment6.target=void\ armarPaneles()
+comment7.target=JPanel\ armarPanelContenido()
+comment8.target=JPanel\ armarPanelIcono()
+comment9.target=JPanel\ armarPanelInput()
+numComments=11

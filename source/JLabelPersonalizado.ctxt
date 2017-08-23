@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=titulo
+comment0.target=JLabelPersonalizado(String)
+comment1.params=titulo\ color\ alignment
+comment1.target=JLabelPersonalizado(String,\ Color,\ int)
+numComments=2

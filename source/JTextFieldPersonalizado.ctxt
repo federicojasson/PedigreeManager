@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=JTextFieldPersonalizado()
+comment1.params=longitud
+comment1.target=JTextFieldPersonalizado(int)
+comment2.params=initialText\ longitud
+comment2.target=JTextFieldPersonalizado(String,\ int)
+comment3.params=initialText
+comment3.target=JTextFieldPersonalizado(String)
+comment4.params=b
+comment4.target=void\ setEnabled(boolean)
+comment5.params=b
+comment5.target=void\ setEditable(boolean)
+comment6.params=cadena
+comment6.target=void\ setText(String)
+comment7.target=void\ deseleccionarTexto()
+numComments=8

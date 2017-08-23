@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=p\ img\ titulo
+comment0.target=GUI_Imagen(GUI_Frame,\ BufferedImage,\ String)
+comment1.target=void\ cerrar()
+comment2.target=void\ redimensionarVentana()
+comment3.target=void\ actualizarImagen()
+comment4.target=void\ crearGUI()
+numComments=5

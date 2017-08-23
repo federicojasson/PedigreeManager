@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=titulo
+comment0.target=JCheckBoxPersonalizado(String)
+comment1.params=titulo\ color
+comment1.target=JCheckBoxPersonalizado(String,\ Color)
+numComments=2

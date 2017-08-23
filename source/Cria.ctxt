@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Perro\ getPadre()
+comment1.params=p
+comment1.target=void\ setPadre(Perro)
+comment2.target=Perro\ getMadre()
+comment3.params=m
+comment3.target=void\ setMadre(Perro)
+comment4.target=String\ getNotas()
+comment5.params=n
+comment5.target=void\ setNotas(String)
+numComments=6

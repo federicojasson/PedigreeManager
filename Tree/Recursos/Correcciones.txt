@@ -1,0 +1,38 @@
+Pedigree Manager - Corregir problemas
+
+
+
+Para el correcto funcionamiento del programa, se recomienda no modificar los archivos en forma manual, sino a través del propio programa.
+
+-------
+
+"Al intentar ejecutar Pedigree Manager se me informa que el programa ya está en ejecución, pero esto no es así."
+
+1º- Verifique que efectivamente el programa no esté siendo ejecutado.
+2º- Intente volver a abrir el programa.
+3º- Busque el archivo "puerto.cfg" en el directorio del programa y ábralo con un editor de texto.
+4º- Ingrese un número entre 1000 y 8000 distinto al actual.
+5º- Intente abrir el programa.
+
+NOTA: Este archivo JAMÁS debe modificarse si el programa funciona correctamente, y es importante que el número ingresado esté en el rango mencionado.
+
+-------
+
+"Las opciones no se conservan."
+
+Verifique que el archivo "opciones.cfg" no sea de Sólo lectura, de la siguiente forma:
+Abra las propiedades del archivo y busque la opción mencionada. Si el archivo resultara también estar Oculto deberá realizar otra acción para acceder a sus propiedades (En Windows) --> Opciones de carpeta --> Ver --> Mostrar archivos, carpetas y unidades ocultos.
+
+-------
+
+"El programa no puede iniciarse porque falta MSVCR71.dll en el equipo.
+Intente reinstalar el programa para corregir este problema."
+
+Este problema no se relaciona con el código del programa, sino con el propio Java.
+Si este problema aparece, deberá verificar que el archivo "MSVCR71.dll" se encuentre en el directorio del ejecutable de Pedigree Manager.
+
+-------
+
+
+
+Ante cualquier consulta: federicojasson@gmail.com

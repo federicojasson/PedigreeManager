@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Fecha\ getFecha()
+comment1.params=f
+comment1.target=void\ setFecha(Fecha)
+comment2.target=char\ getLetra()
+comment3.params=l
+comment3.target=void\ setLetra(char)
+comment4.target=int\ getCantMachos()
+comment5.params=cant
+comment5.target=void\ setCantMachos(int)
+comment6.target=int\ getCantHembras()
+comment7.params=cant
+comment7.target=void\ setCantHembras(int)
+numComments=8

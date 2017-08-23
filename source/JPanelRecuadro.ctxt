@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=title\ ancho\ alto
+comment0.target=JPanelRecuadro(String,\ int,\ int)
+comment1.params=ancho\ alto
+comment1.target=JPanelRecuadro(int,\ int)
+numComments=2

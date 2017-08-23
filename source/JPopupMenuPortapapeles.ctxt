@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=JPopupMenuPortapapeles(JTextComponent)
+comment1.params=x\ y
+comment1.target=void\ show(int,\ int)
+comment10.target=JMenuItem\ armarMenuSeleccionarTodo()
+comment2.target=void\ cortar()
+comment3.target=void\ copiar()
+comment4.target=void\ pegar()
+comment5.target=void\ seleccionarTodo()
+comment6.target=void\ crearGUI()
+comment7.target=JMenuItem\ armarMenuCortar()
+comment8.target=JMenuItem\ armarMenuCopiar()
+comment9.target=JMenuItem\ armarMenuPegar()
+numComments=11

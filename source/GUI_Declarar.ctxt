@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=p\ base\ i
+comment0.target=GUI_Declarar(GUI_Frame,\ Datos,\ int)
+comment1.target=boolean\ seDeclaro()
+comment2.target=void\ aceptar()
+comment3.target=void\ crearGUI()
+comment4.target=void\ armarPaneles()
+comment5.target=JPanel\ armarPanelDatos()
+comment6.target=JPanel\ armarPanelFecha()
+comment7.target=JPanel\ armarPanelLetraHijos()
+comment8.target=JPanel\ armarPanelBotones()
+numComments=9

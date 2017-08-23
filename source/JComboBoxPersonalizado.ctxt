@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=lista
+comment0.target=JComboBoxPersonalizado(String[])
+comment1.params=lista\ ancho
+comment1.target=JComboBoxPersonalizado(String[],\ int)
+numComments=2

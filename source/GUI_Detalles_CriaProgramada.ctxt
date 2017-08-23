@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=p\ base\ c
+comment0.target=GUI_Detalles_CriaProgramada(GUI_Frame,\ Datos,\ CriaProgramada)
+comment1.target=void\ cerrar()
+comment10.target=JPanel\ armarPanelMadre()
+comment11.target=JPanel\ armarPanelNotas()
+comment12.target=JPanel\ armarPanelBotones()
+comment13.target=JPanel\ armarPanelPedigree()
+comment2.target=void\ padre()
+comment3.target=void\ madre()
+comment4.target=void\ pedigree()
+comment5.target=void\ crearGUI()
+comment6.target=void\ armarPaneles()
+comment7.target=JPanel\ armarPanelInfo()
+comment8.target=JPanel\ armarPanelDatos()
+comment9.target=JPanel\ armarPanelPadre()
+numComments=14

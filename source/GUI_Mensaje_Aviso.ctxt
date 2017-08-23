@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=p\ texto
+comment0.target=GUI_Mensaje_Aviso(GUI_Frame,\ String)
+comment1.params=p\ texto
+comment1.target=GUI_Mensaje_Aviso(GUI_Dialog,\ String)
+comment2.target=void\ crearGUI()
+comment3.target=void\ armarPaneles()
+comment4.target=JPanel\ armarPanelContenido()
+comment5.target=JPanel\ armarPanelIcono()
+comment6.target=JPanel\ armarPanelTexto()
+comment7.target=JPanel\ armarPanelBoton()
+numComments=8

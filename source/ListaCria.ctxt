@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ListaCria()
+comment1.target=int\ cantElementos()
+comment2.params=indice
+comment2.target=Cria\ getElemento(int)
+comment3.params=elemento
+comment3.target=void\ agregarElemento(Cria)
+comment4.params=indice
+comment4.target=void\ eliminarElemento(int)
+comment5.target=boolean\ hayEspacio()
+comment6.target=void\ aumentarEspacio()
+comment7.params=indice
+comment7.target=void\ arrastrarElementos(int)
+numComments=8

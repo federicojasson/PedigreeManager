@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=String[]\ ABECEDARIO()
+comment1.params=title
+comment1.target=Border\ BORDE_TITULADO_NORMAL(String)
+comment2.params=title
+comment2.target=Border\ BORDE_TITULADO(String)
+comment3.params=archivo
+comment3.target=String\ MENSAJE_NO_SE_ENCUENTRA(String)
+numComments=4

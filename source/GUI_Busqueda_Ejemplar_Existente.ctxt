@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=p\ base
+comment0.target=GUI_Busqueda_Ejemplar_Existente(GUI_Frame,\ Datos)
+comment1.target=Ejemplar\ obtenerElementoSeleccionado()
+comment10.target=JPanel\ armarPanelLista()
+comment11.target=JPanel\ armarPanelFlechas()
+comment12.target=JPanel\ armarPanelBotones()
+comment13.target=boolean\ armarLista()
+comment14.target=boolean\ actualizarLista()
+comment2.target=void\ aceptar()
+comment3.target=void\ anterior()
+comment4.target=void\ siguiente()
+comment5.target=void\ desbloquearBotones()
+comment6.target=void\ crearGUI()
+comment7.target=void\ armarPaneles()
+comment8.target=JPanel\ armarPanelNavegacion()
+comment9.target=JPanel\ armarPanelVarios()
+numComments=15

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=titulo
+comment0.target=JButtonChico(String)
+comment1.params=titulo\ ancho
+comment1.target=JButtonChico(String,\ int)
+comment2.params=ancho
+comment2.target=JButtonChico(int)
+numComments=3

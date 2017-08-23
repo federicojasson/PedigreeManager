@@ -1,0 +1,66 @@
+Pedigree Manager - Errores
+
+
+
+Para el correcto funcionamiento del programa, se recomienda no modificar los archivos en forma manual, sino a través del propio programa.
+
+-------
+
+"¿Qué restricciones hay sobre los datos ingresados?"
+
+Todos los datos que se correspondan a archivos que se guardan físicamente en algún disco estarán bajo las siguientes restricciones:
+-Deben tener al menos un caracter y 50 como máximo (se recomienda usar menos que el máximo).
+-No se permitirán los siguientes caracteres: | \ / : * ? " < >
+
+Estas restricciones se aplican a:
+-Títulos de las bases de datos o copias de seguridad de las mismas.
+-Nombres de elementos, sean ejemplares o contactos.
+
+-------
+
+"¿A qué se debe el Error 101?"
+
+Se trata de un error relacionado con la dirección física de un archivo.
+
+Las causas de este error pueden ser varias:
+-El archivo buscado no se encuentra.
+-No se encuentra el directorio donde el archivo debe estar almacenado.
+-El archivo o carpeta no existe o es inaccesible debido a sus atributos o estado (puede ser de sólo lectura o estar en uso por otra aplicación en ese momento).
+-La base de datos tiene una extensión permitida (.jey) pero no es válida como tal, o el archivo está dañado.
+-Si está usando una versión modificada del programa, las bases de datos originadas en otras versiones no podrán ser leídas.
+
+-------
+
+"¿Por qué no es posible renombrar la base de datos?"
+
+El proceso por el cual se renombra un archivo consiste en dos partes:
+
+1º: se elimina, si existe, el archivo que tiene el mismo nombre que al que se quiere renombrar.
+2º: se cambia el nombre al archivo en cuestión.
+
+Un error al intentar renombrar un archivo puede ocurrir en cualquiera de los pasos anteriores, pero generalmente se debe a una misma causa: el archivo que está siendo modificado (eliminado o renombrado) está protegido y no puede modificarse.
+
+-------
+
+"Al intentar ejecutar Pedigree Manager se me informa que el programa ya está en ejecución, pero esto no es así."
+
+Este error es muy poco común, pero su solución bastante sencilla. Vea el archivo "Correcciones.txt" para resolverlo.
+
+-------
+
+"Al intentar guardar la foto de un elemento, ésta no se copia, pero no se despliega ningún error."
+
+Este inconveniente puede deberse a la longitud de las rutas de archivos. De acuerdo a las características del sistema operativo, se permite una cierta longitud máxima para una determinada ruta. Si Ud. tiene el programa instalado en un directorio muy "adentrado" (es decir, que está dentro de varias otras carpetas)
+puede intentar mover dicho directorio a otra ubicación para acortar la dirección de la ruta.
+
+-------
+
+"Las opciones no responden: al cerrar el programa y abrirlo nuevamente no se conservan"
+
+Esto se debe a que, por algún motivo, se ha restringido el acceso al archivo de opciones de la carpeta del programa. Verifique que "opciones.cfg" no sea de Sólo lectura. Mas información en el archivo "Correcciones.txt".
+
+-------
+
+
+
+Ante cualquier consulta: federicojasson@gmail.com

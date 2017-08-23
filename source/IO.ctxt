@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=ruta
+comment0.target=Object\ obtenerObjetoSerializado(String)
+comment1.params=archivo\ ruta
+comment1.target=void\ serializarObjeto(Object,\ String)
+comment10.params=ruta
+comment10.target=boolean\ existeArchivo(String)
+comment2.params=rutaOrigen\ rutaDestino
+comment2.target=void\ copiarArchivo(String,\ String)
+comment3.params=ruta
+comment3.target=String\ leerArchivoTexto(String)
+comment4.params=ruta\ texto
+comment4.target=void\ editarArchivoTexto(String,\ String)
+comment5.params=directorioOrigen\ extensionFiltro
+comment5.target=String[]\ obtenerArchivos(String,\ String)
+comment6.params=rutaOrigen\ rutaDestino
+comment6.target=boolean\ renombrarArchivo(String,\ String)
+comment7.params=origen\ destino
+comment7.target=boolean\ renombrar(String,\ String)
+comment8.params=ruta
+comment8.target=boolean\ eliminarArchivo(String)
+comment9.params=ruta
+comment9.target=void\ crearDirectorios(String)
+numComments=11

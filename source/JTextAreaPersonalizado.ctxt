@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=JTextAreaPersonalizado()
+comment1.params=ancho\ alto\ wrap
+comment1.target=JTextAreaPersonalizado(int,\ int,\ boolean)
+comment2.params=initialText\ ancho\ alto\ wrap
+comment2.target=JTextAreaPersonalizado(String,\ int,\ int,\ boolean)
+comment3.params=b
+comment3.target=void\ setEnabled(boolean)
+comment4.params=b
+comment4.target=void\ setEditable(boolean)
+comment5.params=cadena
+comment5.target=void\ setText(String)
+comment6.target=void\ deseleccionarTexto()
+numComments=7

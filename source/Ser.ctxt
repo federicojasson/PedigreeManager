@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=String\ getNombre()
+comment1.params=n
+comment1.target=void\ setNombre(String)
+comment2.target=String\ getNotas()
+comment3.params=n
+comment3.target=void\ setNotas(String)
+numComments=4

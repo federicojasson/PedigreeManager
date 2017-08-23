@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=s\ base\ n
+comment0.target=JPopupMenuPedigree(GUI_Frame,\ Datos,\ String)
+comment1.target=void\ detalles()
+comment2.target=void\ crearGUI()
+comment3.target=JMenuItem\ armarMenuDetalles()
+numComments=4

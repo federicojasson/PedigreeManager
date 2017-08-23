@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Fecha\ getFecha()
+comment1.params=f
+comment1.target=void\ setFecha(Fecha)
+comment10.params=c
+comment10.target=void\ setCriador(Persona)
+comment11.target=boolean\ esMacho()
+comment12.target=boolean\ esHembra()
+comment2.params=c
+comment2.target=void\ setSexo(char)
+comment3.target=Perro\ getPadre()
+comment4.params=p
+comment4.target=void\ setPadre(Perro)
+comment5.target=Perro\ getMadre()
+comment6.params=m
+comment6.target=void\ setMadre(Perro)
+comment7.target=Persona\ getPropietario()
+comment8.params=p
+comment8.target=void\ setPropietario(Persona)
+comment9.target=Persona\ getCriador()
+numComments=13

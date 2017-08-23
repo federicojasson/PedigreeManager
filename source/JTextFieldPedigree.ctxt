@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=p\ base\ n
+comment0.target=JTextFieldPedigree(GUI_Frame,\ Datos,\ String)
+comment1.params=cadena
+comment1.target=void\ setText(String)
+numComments=2

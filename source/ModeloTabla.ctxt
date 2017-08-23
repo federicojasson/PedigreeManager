@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=d\ c
+comment0.target=ModeloTabla(Object[][],\ String[])
+comment1.params=row\ column
+comment1.target=boolean\ isCellEditable(int,\ int)
+comment2.params=indice
+comment2.target=String\ getColumnName(int)
+comment3.params=fila\ columna
+comment3.target=Object\ getValueAt(int,\ int)
+comment4.target=int\ getColumnCount()
+comment5.target=int\ getRowCount()
+numComments=6

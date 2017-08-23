@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=GUI_AcercaDe(GUI_Frame)
+comment1.target=void\ crearGUI()
+comment2.target=void\ armarPaneles()
+comment3.target=JPanel\ armarPanelAnio()
+comment4.target=JPanel\ armarPanelCredito()
+comment5.target=JPanel\ armarPanelNombre()
+comment6.target=JPanel\ armarPanelImplementado()
+comment7.target=JPanel\ armarPanelProgramado()
+numComments=8

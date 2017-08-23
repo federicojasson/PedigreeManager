@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=p\ base
+comment0.target=GUI_Nuevo_CriaNacida(GUI_Frame,\ Datos)
+comment1.target=boolean\ seAgrego()
+comment10.target=JPanel\ armarPanelPadre()
+comment11.target=JPanel\ armarPanelMadre()
+comment12.target=JPanel\ armarPanelFecha()
+comment13.target=JPanel\ armarPanelLetraHijos()
+comment14.target=JPanel\ armarPanelNotas()
+comment15.target=JPanel\ armarPanelBotones()
+comment2.target=void\ aceptar()
+comment3.target=void\ padre()
+comment4.target=void\ descartarPadre()
+comment5.target=void\ madre()
+comment6.target=void\ descartarMadre()
+comment7.target=void\ crearGUI()
+comment8.target=void\ armarPaneles()
+comment9.target=JPanel\ armarPanelDatos()
+numComments=16

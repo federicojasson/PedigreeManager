@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=p\ base
+comment0.target=GUI_Informacion(GUI_Frame,\ Datos)
+comment1.target=void\ aceptar()
+comment10.target=JPanel\ armarPanelBanner()
+comment11.target=JPanel\ armarPanelInformacion()
+comment12.target=JPanel\ armarPanelTitulo()
+comment13.target=JPanel\ armarPanelEstadisticas()
+comment14.target=JPanel\ armarPanelBotones()
+comment2.params=nuevoTitulo\ rutaOrigen\ rutaDestino
+comment2.target=void\ renombrar(String,\ String,\ String)
+comment3.target=void\ backup()
+comment4.target=void\ chequearField()
+comment5.target=void\ bloquearBotones()
+comment6.target=void\ desbloquearBotones()
+comment7.target=void\ restaurar()
+comment8.target=void\ crearGUI()
+comment9.target=void\ armarPaneles()
+numComments=15

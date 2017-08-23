@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=String\ baseDefault()
+comment1.params=base
+comment1.target=void\ setBaseDefault(String)
+comment10.target=String[]\ obtenerTodasLasOpciones()
+comment2.target=boolean\ autosaveOnClose()
+comment3.params=b
+comment3.target=void\ setAutosaveOnClose(boolean)
+comment4.target=int\ autosaveInterval()
+comment5.params=nro
+comment5.target=void\ setAutosaveInterval(int)
+comment6.target=void\ guardarOpciones()
+comment7.target=Opciones\ cargarOpciones()
+comment8.target=Opciones\ cargarOpcionesDefault()
+comment9.target=String\ obtenerBaseDefault()
+numComments=11

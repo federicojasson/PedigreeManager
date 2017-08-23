@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=cadena
+comment0.target=boolean\ esEntero(String)
+comment1.params=arregloOrigen\ capacidad
+comment1.target=String[]\ arregloLleno(String[],\ int)
+comment2.params=numeroMax\ numero
+comment2.target=String\ devolverCeros(int,\ int)
+comment3.params=numero
+comment3.target=int\ contarDigitos(int)
+comment4.params=nombre
+comment4.target=boolean\ nombreValido(String)
+comment5.params=cadena
+comment5.target=boolean\ longAceptable(String)
+comment6.params=caracter
+comment6.target=boolean\ caracterValido(char)
+comment7.params=archivo
+comment7.target=String\ extension(String)
+comment8.params=archivo
+comment8.target=String\ sinExtension(String)
+numComments=9

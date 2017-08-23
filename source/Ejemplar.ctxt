@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=String\ getRegistro()
+comment1.params=r
+comment1.target=void\ setRegistro(String)
+comment2.target=String\ getTatuaje()
+comment3.params=t
+comment3.target=void\ setTatuaje(String)
+numComments=4

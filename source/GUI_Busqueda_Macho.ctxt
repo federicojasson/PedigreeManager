@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=p\ base
+comment0.target=GUI_Busqueda_Macho(GUI_Dialog,\ Datos)
+comment1.params=p\ base\ n
+comment1.target=GUI_Busqueda_Macho(GUI_Dialog,\ Datos,\ String)
+comment10.target=JPanel\ armarPanelNavegacion()
+comment11.target=JPanel\ armarPanelVarios()
+comment12.target=JPanel\ armarPanelLista()
+comment13.target=JPanel\ armarPanelFlechas()
+comment14.target=JPanel\ armarPanelBotones()
+comment15.target=boolean\ armarLista()
+comment16.target=boolean\ actualizarLista()
+comment2.target=Ejemplar\ obtenerElementoSeleccionado()
+comment3.target=void\ aceptar()
+comment4.target=void\ nuevo()
+comment5.target=void\ anterior()
+comment6.target=void\ siguiente()
+comment7.target=void\ desbloquearBotones()
+comment8.target=void\ crearGUI()
+comment9.target=void\ armarPaneles()
+numComments=17

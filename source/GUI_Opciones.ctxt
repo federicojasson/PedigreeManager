@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=p\ baseDatos
+comment0.target=GUI_Opciones(GUI_Frame,\ Datos)
+comment1.target=void\ aceptar()
+comment10.target=void\ desbloquearDefaultElementos()
+comment11.target=void\ crearGUI()
+comment12.target=void\ armarPaneles()
+comment13.target=JPanel\ armarPanelBanner()
+comment14.target=JPanel\ armarPanelOpciones()
+comment15.target=JPanel\ armarPanelDefault()
+comment16.target=JPanel\ armarPanelAutosave()
+comment17.target=JPanel\ armarPanelAutosaveInterval()
+comment18.target=JPanel\ armarPanelBotones()
+comment2.target=void\ actualizarOpcionDefault()
+comment3.target=void\ actualizarOpcionAutosave()
+comment4.target=void\ actualizarOpcionAutosaveInterval()
+comment5.target=void\ establecerOpcionesDefault()
+comment6.target=void\ bloquearElementos()
+comment7.target=void\ bloquearAutosaveIntervalElementos()
+comment8.target=void\ desbloquearAutosaveIntervalElementos()
+comment9.target=void\ bloquearDefaultElementos()
+numComments=19

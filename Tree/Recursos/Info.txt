@@ -1,0 +1,91 @@
+Pedigree Manager - Información y preguntas frecuentes
+
+
+
+------Utilidad-------------------------------------------
+
+Pedigree Manager puede utilizarse para almacenar datos de cualquier raza. Cada ejemplar que se ingresa posee una sección de Notas, en la cual pueden ingresarse los datos específicos que sean necesarios. Además, el programa permite almacenar contactos, siendo posible, también, asociarlos a los ejemplares.
+
+----------------------------------------------------------
+
+
+------Buscador-----------------------------------------
+
+El Buscador de Pedigree Manager le permite establecer parámetros muy definidos. Hay dos métodos de búsqueda.
+
+-Método Inclusivo: realiza la búsqueda de modo tal que los elementos encontrados cumplen con al menos uno de los campos llenados. Si un campo está vacío, se ignora.
+
+-Método Exclusivo: realiza un filtrado de modo tal que los elementos encontrados cumplen con TODOS los campos llenados. En forma similar al Inclusivo, si un campo no fue escrito se ignorará.
+
+Como última mención, tenga en cuenta que los campos no se comparan en forma completa: si parte de los textos coinciden el elemento es aceptado.
+
+----------------------------------------------------------
+
+
+------Redundancia-------------------------------------
+
+Pedigree Manager no permite que un ejemplar sea padre de sí mismo, pero no contempla otros casos. Por ejemplo, si Perro1 es padre de Perro2, Perro2 es padre de Perro3 y Perro3 es padre de Perro1, el programa no detectará el inconveniente.
+
+----------------------------------------------------------
+
+
+------Base de datos-----------------------------------
+
+Pedigree Manager le permite crear todas las bases de datos que sean necesarias. Esta opción resulta especialmente útil para trabajar con razas diferentes o en caso de que haya más de un usuario.
+
+Es posible realizar copias de seguridad de la base de datos para conservar la información. Las copias se guardan automáticamente en el directorio "Backups" en el interior de la carpeta del programa. Estos archivos no se modificarán nunca sin su consentimiento. Se recomienda realizar copias de seguridad frecuentemente.
+
+Tenga en cuenta que las fotos correspondientes a los ejemplares y/o contactos NO SON GUARDADOS. Si desea conservar las fotos ingresadas, copie el directorio "Fotos" de la carpeta del programa en el directorio que desee.
+
+----------------------------------------------------------
+
+
+------Fotos---------------------------------------------
+
+Pedigree Manager permite almacenar fotos para cada contacto y/o ejemplar. Puede agregarlas a través del programa o manualmente. Si desea hacerlo de esta última forma, basta con copiar la foto que desee al directorio "Fotos/..." (correspondiente a un contacto o un ejemplar), renombrando la imagen con el nombre del elemento. Los formatos aceptados son: JPG, JPEG y GIF. Cada elemento puede tener sólo una foto asociada.
+
+Si Ud. agregó un elemento con una imagen y cierra el programa sin guardar, la foto no será eliminada de la carpeta de Fotos.
+
+----------------------------------------------------------
+
+
+------Rendimiento--------------------------------------
+
+Pedigree Manager es un programa para administrar una base de datos relativamente pequeña. A medida que se agreguen datos, puede que el rendimiento y la velocidad se vean afectados. Sin embargo, Pedigree Manager puede soportar una cantidad de entradas en el orden de los miles.
+
+Se recomiendan como mínimo, 128 MB de memoria RAM.
+El programa ha sido probado en Windows.
+
+Puede que el programa no se acomode bien en resoluciones menores a 1024x768.
+
+----------------------------------------------------------
+
+
+------Código-------------------------------------------
+
+Desarrollado en BlueJ version 2.5.2 (Java version 1.6.0_16).
+Si usted no utiliza Windows, puede utilizar el archivo ".jar", ubicado en el directorio del programa, para ejecutar Pedigree Manager.
+
+ATENCIÓN: Cualquier modificación del programa provocará que las bases de datos ya creadas en otra versión de Pedigree Manager queden inutilizables.
+
+----------------------------------------------------------
+
+
+Preguntas frecuentes (FAQ):
+
+¿Es posible cambiar el título de la base de datos?
+Sí, en el menú principal - Datos - Información de la base de datos.
+
+¿Es posible cambiar el nombre de un elemento (ejemplar o contacto)?
+No, para evitar ciertos inconvenientes esta opción no está habilitada, así como tampoco la de cambiar el sexo una vez agregado el ejemplar. Si desea hacer esto deberá crear un nuevo ejemplar (o contacto, si se tratara del nombre) y eliminar el anterior.
+
+¿Cómo utilizo una base de datos creada como copia de seguridad?
+Simplemente mueva el archivo de la carpeta "Backups" al directorio "Datos".
+Si desea, puede renombrar la base de datos, quitando el prefijo automático agregado ("BACKUP.").
+
+¿Cómo cambio la base de datos predeterminada?
+En el Menú principal - Herramientas - Opciones, es posible cambiar esta configuración. Si la base de datos no es válida, la próxima vez que Pedigree Manager se inicie, lo hará en la ventana inicial.
+
+
+
+Ante cualquier consulta: federicojasson@gmail.com

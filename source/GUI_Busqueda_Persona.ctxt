@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=p\ base
+comment0.target=GUI_Busqueda_Persona(GUI_Dialog,\ Datos)
+comment1.target=Persona\ obtenerElementoSeleccionado()
+comment10.target=JPanel\ armarPanelVarios()
+comment11.target=JPanel\ armarPanelLista()
+comment12.target=JPanel\ armarPanelFlechas()
+comment13.target=JPanel\ armarPanelBotones()
+comment14.target=boolean\ armarLista()
+comment15.target=boolean\ actualizarLista()
+comment2.target=void\ aceptar()
+comment3.target=void\ nuevo()
+comment4.target=void\ anterior()
+comment5.target=void\ siguiente()
+comment6.target=void\ desbloquearBotones()
+comment7.target=void\ crearGUI()
+comment8.target=void\ armarPaneles()
+comment9.target=JPanel\ armarPanelNavegacion()
+numComments=16

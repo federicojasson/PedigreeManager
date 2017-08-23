@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GUI_Inicial()
+comment1.target=void\ cerrar()
+comment10.target=void\ crearGUI()
+comment11.target=void\ armarPaneles()
+comment12.target=JPanel\ armarPanelBanner()
+comment13.target=JPanel\ armarPanelSeleccion()
+comment14.target=JPanel\ armarPanelNuevo()
+comment15.target=JPanel\ armarPanelCargar()
+comment16.target=JPanel\ armarPanelDefault()
+comment17.target=JPanel\ armarPanelBotones()
+comment18.target=void\ actualizarLista()
+comment2.target=void\ aceptar()
+comment3.params=titulo
+comment3.target=void\ cargarNuevaBaseDatos(String)
+comment4.params=titulo
+comment4.target=void\ cargarBaseDatos(String)
+comment5.params=baseDatos
+comment5.target=void\ iniciarPrograma(Datos)
+comment6.target=void\ eliminar()
+comment7.target=void\ backup()
+comment8.target=void\ seleccionarNuevo()
+comment9.target=void\ seleccionarCargar()
+numComments=19

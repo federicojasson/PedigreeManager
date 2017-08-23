@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=parent
+comment0.target=GUI_Dialog(GUI_Frame)
+comment1.target=GUI_Dialog()
+comment2.params=parent
+comment2.target=GUI_Dialog(GUI_Dialog)
+comment3.target=void\ cerrar()
+numComments=4

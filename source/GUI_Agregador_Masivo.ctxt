@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=p\ base
+comment0.target=GUI_Agregador_Masivo(GUI_Frame,\ Datos)
+comment1.params=p\ base\ t
+comment1.target=GUI_Agregador_Masivo(GUI_Frame,\ Datos,\ int)
+comment10.target=void\ armarPaneles()
+comment11.target=JPanel\ armarPanelSuperior()
+comment12.target=JPanel\ armarPanelBanner()
+comment13.target=JPanel\ armarPanelOpciones()
+comment14.target=JPanel\ armarPanelCentral()
+comment15.target=JPanel\ armarPanelInferior()
+comment2.target=boolean\ seAgregaronEjemplares()
+comment3.target=boolean\ seAgregaronContactos()
+comment4.target=void\ reiniciarPlanilla()
+comment5.target=void\ agregar()
+comment6.params=nombres
+comment6.target=void\ agregarMachos(String[])
+comment7.params=nombres
+comment7.target=void\ agregarHembras(String[])
+comment8.params=nombres
+comment8.target=void\ agregarContactos(String[])
+comment9.target=void\ crearGUI()
+numComments=16

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=d\ m\ a
+comment0.target=Fecha(int,\ int,\ int)
+comment1.target=int\ getDia()
+comment2.target=int\ getMes()
+comment3.target=int\ getAnio()
+comment4.target=String\ toString()
+comment5.target=String\ toStringPalabras()
+numComments=6
